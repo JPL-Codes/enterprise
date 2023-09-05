@@ -14,5 +14,5 @@ public class PlantDiaryController {
     public String index(){
         return "start";
 
-    }
+    }/** test**/
 }
